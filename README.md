@@ -1,1 +1,1 @@
-# Javascript-LeetCode
+# Javascript-LeetCode (LeetCode: @PriyeshMishra)
